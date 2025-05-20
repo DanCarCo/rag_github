@@ -1,0 +1,5 @@
+.env
+__pycache__/embedder.cpython-312.pyc
+__pycache__/pdf_loader.cpython-312.pyc
+__pycache__/rag_answer.cpython-312.pyc
+models/llama-2-7b-chat.ggmlv3.q4_0.bin
